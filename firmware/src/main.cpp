@@ -1,3 +1,8 @@
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Media Interaction Lab
+ *  Licensed under the MIT License. See LICENSE file in the package root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
 #include <Arduino.h>
 
 const int ANALOG_IN_COUNT = 6;
