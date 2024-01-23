@@ -1,6 +1,12 @@
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Media Interaction Lab
  *  Licensed under the MIT License. See LICENSE file in the package root for license information.
+ *  Author: Roland Aigner | roland.aigner@fh-hagenberg.at
+ *  This code is part of the supplementary material of the paper 
+ *  Aigner, R., Haberfellner, M.A., Haller, M. "Loopsense: low-scale, unobtrusive, and minimally 
+ *  invasive knitted force sensors for multi-modal input, enabled by selective loop-meshing". 
+ *  In ACM CHI'24. 
+ *    https://doi.org/10.1145/3613904.3642528 
  *--------------------------------------------------------------------------------------------*/
 
 #include <Arduino.h>
